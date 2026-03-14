@@ -1,1 +1,0 @@
-regressin_sklirean/city_temperature.csv filter=lfs diff=lfs merge=lfs -text
